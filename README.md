@@ -2,6 +2,7 @@
 X16 Assembly İşletim Sistemi/X16 Assembly Operating System
 
 #Çalışma Mantığı
+
 -İlk önce kernel.bin dosyası ana sayfayı açar,burada senden dosya adı ister
 -Dosya adını girerek dosyaya girersin
 -Dosyadan çıkarken esc tuşuna basılır
